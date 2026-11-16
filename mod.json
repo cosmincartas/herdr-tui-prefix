@@ -1,0 +1,5 @@
+{
+  "place": "none",
+  "title": "Herdr TUI prefix",
+  "overlay": { "kind": "popup", "at": "top", "offset": 48, "width": 430, "height": 400 }
+}
