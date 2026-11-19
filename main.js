@@ -13,6 +13,8 @@ const ACTIONS = [
   { key: "w", label: "Workspace / tab picker", command: "mod.open", args: { name: "picker" } },
   { key: "q", label: "Detach (close window)", command: "window.close", args: {} },
   { key: "x", label: "Close focused pane", command: "pane.close", args: {} },
+  { key: "z", label: "Zoom focused pane", command: "pane.zoom", args: {} },
+  { key: "Shift+X", label: "Close tab", command: "tab.close", args: {} },
   { key: "Shift+N", label: "New workspace", command: "space.new", args: {} },
   { key: "Shift+T", label: "Rename tab", command: "tab.rename", args: {} },
   { key: "Shift+D", label: "Close workspace", command: "space.close", args: {} },

@@ -10,6 +10,8 @@ A popup lists the available actions.
 | `h` `j` `k` `l` | Focus left / below / above / right pane |
 | `w` | Workspace / tab picker |
 | `x` | Close focused pane |
+| `z` | Zoom / unzoom focused pane |
+| `Shift+X` | Close tab |
 | `q` | Detach (close window) |
 | `Shift+N` | New workspace |
 | `Shift+T` | Rename tab |
